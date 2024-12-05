@@ -1,0 +1,2 @@
+- email: jcrescent61@gmail.com
+- blog: [조내지의 개발 블로그](https://jonaeji94.tistory.com/)
